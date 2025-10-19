@@ -21,8 +21,7 @@
 
 <h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">About Me</h2>
 
-I am a Computer Science student passionate about crafting meaningful, efficient, and visually appealing software.  
-My work blends analytical precision with creative design, and I am currently contributing to Street Smartz — an app empowering South African youth to connect and stay informed.  
+I am a Computer Science student passionate about crafting meaningful, efficient, and visually appealing software. 
 
 ---
 
