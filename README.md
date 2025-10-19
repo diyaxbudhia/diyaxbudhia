@@ -2,13 +2,15 @@
 
 <div align="center">
 
-  <h1 style="font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 46px; background: linear-gradient(90deg, #38B2AC, #7C3AED, #F472B6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0;">
+  <!-- NAME: purple + distinct font look (system fallbacks so it renders on GitHub) -->
+  <h1 style="font-family: 'Playfair Display', 'Georgia', 'Times New Roman', serif; font-weight: 800; font-size: 48px; color: #7C3AED; letter-spacing: 0.5px; margin-bottom: 6px;">
     Diya Budhia
   </h1>
-  <h3 style="font-family: 'Inter', sans-serif; font-weight: 400; font-size: 20px; color: #A1A1AA; margin-top: 5px;">
-    Turning coffee into code
-  </h3>
-  <p style="font-family: 'Inter', sans-serif; color: #CBD5E1; max-width: 700px;">
+
+  <!-- TYPING EFFECT (SVG) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Integration+Engineer;UI/UX+Engineer" alt="Typing SVG">
+
+  <p style="font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif; color: #CBD5E1; max-width: 760px; margin-top: 10px;">
     Aspiring Software Engineer | Final-Year BSc Computer Science Student at the University of Pretoria<br>
     Focused on AI, Full-Stack Development, and UX-Driven Design.
   </p>
@@ -22,11 +24,12 @@
 I am a Computer Science student passionate about crafting meaningful, efficient, and visually appealing software.  
 My work blends analytical precision with creative design, and I am currently contributing to Street Smartz — an app empowering South African youth to connect and stay informed.  
 
-
-
 ---
 
+<!-- CENTERED TECH STACK -->
 <h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Tech Stack</h2>
+
+<div align="center">
 
 <table>
   <tr>
@@ -81,6 +84,9 @@ My work blends analytical precision with creative design, and I am currently con
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ---
 
