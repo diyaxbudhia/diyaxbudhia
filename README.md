@@ -67,7 +67,6 @@ Currently, I’m contributing to **Street Smartz**, an app empowering South Afri
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diyaxbudhia&show_icons=true&theme=tokyonight&title_color=7C3AED&icon_color=38B2AC&text_color=CBD5E1&bg_color=0D1117" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaxbudhia&layout=compact&theme=tokyonight&title_color=7C3AED&text_color=CBD5E1&bg_color=0D1117" />
 </p>
 
 ---
