@@ -91,6 +91,14 @@ My work blends analytical precision with creative design, and I am currently con
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyaxbudhia/diyaxbudhia/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/diyaxbudhia/diyaxbudhia/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+---
+
 <h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Achievements</h2>
 
 - Top 5 — Entelect University Cup Hackathon 2025  
