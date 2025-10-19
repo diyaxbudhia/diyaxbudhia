@@ -82,33 +82,17 @@ My work blends analytical precision with creative design, and I am currently con
   </tr>
 </table>
 
-<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Projects & Experience</h2>
-
-- **Street Smartz (2025–present)** – Co-Founder & Developer  
-  A mobile app designed to empower South African youth with local safety alerts and mentorship opportunities.  
-- **Academic Mentor (University of Pretoria, 2024)** – Assisted 30+ students in mastering computational logic and coding best practices.  
-- **Vodacom Code for a Girl Bootcamp** – Built responsive web pages using HTML and CSS, promoting women in tech.
-
 ---
+
+<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">GitHub Insights</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyaxbudhia/diyaxbudhia/output/github-contribution-grid-snake-dark.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/diyaxbudhia/diyaxbudhia/output/github-contribution-grid-snake.svg">
 </picture>
-
-
----
-
-<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Achievements</h2>
-
-- Top 5 — Entelect University Cup Hackathon 2025  
-- Academic Full Colours Award — Consistent top-tier academic performance  
-- National Eisteddfod Diplomas — Visual Arts (Watercolour, Charcoal, Pencil)  
-- Southern District Cross Country Representative  
-
----
-
-<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">GitHub Insights</h2>
+<p>
+    
+</p>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diyaxbudhia&theme=neon&show_icons=true&hide_border=false&title_color=38B2AC&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117" />
@@ -129,6 +113,23 @@ My work blends analytical precision with creative design, and I am currently con
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaxbudhia&theme=neon&hide_border=false&layout=compact&title_color=7C3AED&text_color=E2E8F0&bg_color=0D1117" />
 </p>
+
+---
+<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Projects & Experience</h2>
+
+- **Street Smartz (2025–present)**: Co-Founder & Developer  
+  A mobile app designed to empower South African youth with local safety alerts and mentorship opportunities.  
+- **Academic Mentor (University of Pretoria, 2024)**: Assisted 30+ students in mastering computational logic and coding best practices.  
+- **Vodacom Code for a Girl Bootcamp**: Built responsive web pages using HTML and CSS, promoting women in tech.
+
+---
+
+<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Achievements</h2>
+
+- Top 5: Entelect University Cup Hackathon 2025  
+- Academic Full Colours Award: Consistent top-tier academic performance  
+- National Eisteddfod Diplomas: Visual Arts (Watercolour, Charcoal, Pencil)  
+- Southern District Cross Country Representative  
 
 ---
 
