@@ -1,21 +1,20 @@
 <!-- Diya Budhia - GitHub Profile README -->
 
-<!-- Custom Fonts and Gradient Header -->
 <div align="center">
   <h1 style="font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 42px; background: linear-gradient(90deg, #38B2AC, #7C3AED); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0;">
     Diya Budhia
   </h1>
   <h3 style="font-family: 'Inter', sans-serif; font-weight: 400; font-size: 18px; color: #A1A1AA; margin-top: 0;">
-    "Transforming Logic into Impactful Software"
+    Turning coffee into code
   </h3>
   <p style="font-family: 'Inter', sans-serif; color: #CBD5E1;">
-    Aspiring Software Engineer | Final-Year BSc Computer Science Student @ University of Pretoria
+    Aspiring Software Engineer | Final-Year BSc Computer Science Student at University of Pretoria
   </p>
 </div>
 
 ---
 
-### About Me  
+<h2 align="left" style="color:#7C3AED; font-family:'Playfair Display', serif; font-weight:700;">About Me</h2>
 
 I am a **Computer Science student** driven by the challenge of crafting meaningful, efficient, and beautiful software.  
 My interests span across **AI, full-stack development**, and **UX-focused design**, blending analytical precision with creativity.  
@@ -23,26 +22,30 @@ Currently, I’m contributing to **Street Smartz**, an app empowering South Afri
 
 ---
 
-### Tech Stack  
+<h2 align="left" style="color:#7C3AED; font-family:'Playfair Display', serif; font-weight:700;">Tech Stack</h2>
 
 #### Languages  
-![Python](https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4F46E5?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D9488?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-6B21A8?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
+</p>
 
 #### Frameworks & Tools  
-![React](https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-14B8A6?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7E22CE?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-0891B2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</p>
 
 ---
 
-### Projects & Experience  
+<h2 align="left" style="color:#7C3AED; font-family:'Playfair Display', serif; font-weight:700;">Projects & Experience</h2>
 
 - **Street Smartz (2025–present)** – Co-founder & Developer  
   A mobile app designed to inform and empower South African youth through local safety alerts and mentorship opportunities.  
@@ -51,7 +54,7 @@ Currently, I’m contributing to **Street Smartz**, an app empowering South Afri
 
 ---
 
-### Achievements  
+<h2 align="left" style="color:#7C3AED; font-family:'Playfair Display', serif; font-weight:700;">Achievements</h2>
 
 - Top 5 — Entelect University Cup Hackathon 2025  
 - Academic Full Colours Award — Consistent top-tier academic performance  
@@ -60,7 +63,7 @@ Currently, I’m contributing to **Street Smartz**, an app empowering South Afri
 
 ---
 
-### GitHub Insights  
+<h2 align="left" style="color:#7C3AED; font-family:'Playfair Display', serif; font-weight:700;">GitHub Insights</h2>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diyaxbudhia&show_icons=true&theme=tokyonight&title_color=7C3AED&icon_color=38B2AC&text_color=CBD5E1&bg_color=0D1117" />
@@ -69,15 +72,15 @@ Currently, I’m contributing to **Street Smartz**, an app empowering South Afri
 
 ---
 
-### Contribution Streak  
+<h2 align="left" style="color:#7C3AED; font-family:'Playfair Display', serif; font-weight:700;">Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyaxbudhia&theme=tokyonight&background=0D1117&ring=38B2AC&fire=7C3AED&currStreakLabel=38B2AC" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diyaxbudhia&theme=tokyonight&background=0D1117&ring=7C3AED&fire=38B2AC&currStreakLabel=7C3AED" />
 </p>
 
 ---
 
-### Connect with Me  
+<h2 align="left" style="color:#7C3AED; font-family:'Playfair Display', serif; font-weight:700;">Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diya-budhia-a9124a355/" target="_blank">
