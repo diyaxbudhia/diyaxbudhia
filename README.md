@@ -51,6 +51,15 @@ Currently, I’m contributing to **Street Smartz**, an app empowering South Afri
 
 ---
 
+### Achievements  
+
+- Top 5 — Entelect University Cup Hackathon 2025  
+- Academic Full Colours Award — Consistent top-tier academic performance  
+- National Eisteddfod Diplomas — Visual Arts (Watercolour, Charcoal, Pencil)  
+- Southern District Cross Country Representative  
+
+---
+
 ### GitHub Insights  
 
 <p align="center">
