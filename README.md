@@ -133,8 +133,6 @@ I am a Computer Science student passionate about crafting meaningful, efficient,
 
 - Top 5: Entelect University Cup Hackathon 2025  
 - Academic Full Colours Award: Consistent top-tier academic performance  
-- National Eisteddfod Diplomas: Visual Arts (Watercolour, Charcoal, Pencil)  
-- Southern District Cross Country Representative  
 
 ---
 
