@@ -3,12 +3,10 @@
 <div align="center">
 
   <!-- NAME: purple + distinct font look (system fallbacks so it renders on GitHub) -->
-  <h1 style="font-family: 'Playfair Display', 'Georgia', 'Times New Roman', serif; font-weight: 800; font-size: 48px; color: #7C3AED; letter-spacing: 0.5px; margin-bottom: 6px;">
-    Diya Budhia
-  </h1>
+<img src="assets/header.png" alt="Diya Budhia" width="100%" style="border-radius: 12px;"/>
 
   <!-- TYPING EFFECT (SVG) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Integration+Engineer;UI/UX+Engineer" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Integration+Engineer;UI/UX+Engineer" alt="Typing SVG">
 
   <p style="font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif; color: #CBD5E1; max-width: 760px; margin-top: 10px;">
     Aspiring Software Engineer | Final-Year BSc Computer Science Student at the University of Pretoria<br>
@@ -21,7 +19,7 @@
 
 ### About Me
 
-| ![Diya Budhia](assets/me.png) | I am a Computer Science student passionate about crafting meaningful, efficient, and visually appealing software. Focused on AI, Full-Stack Development, and UX-Driven Design. |
+| <img src="assets/me.png" alt="Diya Budhia" width="240" style="border-radius:12px;" /> | I am a Computer Science student passionate about crafting meaningful, efficient, and visually appealing software. Focused on AI, Full-Stack Development, and UX-Driven Design. |
 |---|---|
 
 
@@ -105,20 +103,37 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diyaxbudhia&theme=neon&show_icons=true&hide_border=false&title_color=38B2AC&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117" />
 </p>
 
----
 
-<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Contribution Streak</h2>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=diyaxbudhia&theme=neon&hide_border=false" />
 </p>
 
----
 
-<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Languages Used</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaxbudhia&theme=neon&hide_border=false&layout=compact&title_color=7C3AED&text_color=E2E8F0&bg_color=0D1117" />
+</p>
+
+---
+
+<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diya-budhia-a9124a355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:diya.budhia@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/diyaxbudhia">
+    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br><br>
+  <!-- CV BUTTON -->
+  <a href="assets/Diya_Budhia_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_CV-7C3AED?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -135,22 +150,6 @@
 
 - Top 5: Entelect University Cup Hackathon 2025  
 - Academic Full Colours Award: Consistent top-tier academic performance  
-
----
-
-<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/diya-budhia-a9124a355/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-38B2AC?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:diya.budhia@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/diyaxbudhia">
-    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
