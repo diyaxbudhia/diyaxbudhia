@@ -19,9 +19,9 @@ jobs:
         with:
           github_user_name: diyaxbudhia
           outputs: |
-            # Black background, white snake, pink/purple/teal dots
-            dist/github-contribution-grid-snake.svg?color_back=%23000000&color_snake=%23FFFFFF&color_dots=%23F472B6,%237C3AED,%2338B2AC
-            dist/github-contribution-grid-snake-dark.svg?color_back=%23000000&color_snake=%23FFFFFF&color_dots=%23F472B6,%237C3AED,%2338B2AC
+            # Pink background, white snake, black/purple/teal dots
+            dist/github-contribution-grid-snake.svg?color_back=%23F472B6&color_snake=%23FFFFFF&color_dots=%23000000,%237C3AED,%2338B2AC
+            dist/github-contribution-grid-snake-dark.svg?color_back=%23F472B6&color_snake=%23FFFFFF&color_dots=%23000000,%237C3AED,%2338B2AC
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
