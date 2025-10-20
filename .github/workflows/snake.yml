@@ -22,7 +22,7 @@ jobs:
               # Light (uses subtle bg, neon accents)
               dist/github-contribution-grid-snake.svg?color_snake=%237C3AED&color_dots=%2338B2AC,%237C3AED,%23F472B6
               # Dark (explicit dark bg, neon accents)
-              dist/github-contribution-grid-snake-dark.svg?color_snake=%237C3AED&color_dots=%2338B2AC,%237C3AED,%23F472B6&color_back=%230D1117
+              dist/github-contribution-grid-snake-dark.svg?color_snake=%237C3AED&color_dots=%2338B2AC,%238B5CF6,%23F472B6&color_back=%230D1117
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
