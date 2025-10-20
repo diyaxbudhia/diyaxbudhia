@@ -19,9 +19,11 @@
 
 ---
 
-<h2 align="left" style="color:#38B2AC; font-family:'Playfair Display', serif; font-weight:700;">About Me</h2>
+### About Me
 
-I am a Computer Science student passionate about crafting meaningful, efficient, and visually appealing software. 
+| ![Diya Budhia](assets/me.png) | I am a Computer Science student passionate about crafting meaningful, efficient, and visually appealing software. Focused on AI, Full-Stack Development, and UX-Driven Design. |
+|---|---|
+
 
 ---
 
