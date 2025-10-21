@@ -31,10 +31,9 @@
         🧠 Skilled in multiple programming languages including <b>Python</b>, <b>Java</b>, and <b>C++</b><br>
         🧩 Strong foundation in <b>data structures</b>, <b>algorithms</b>, and <b>object-oriented programming</b><br>
         🧱 Enjoy solving real-world problems through efficient, creative, and well-designed software<br>
-        🪄 Currently exploring <b>machine learning</b>, <b>cloud computing</b>, and <b>systems integration</b><br>
         💻 Advocate for clean, scalable code and user-centered digital experiences<br>
         🌍 Co-founder of <b>Street Smartz</b>, a mobile app improving youth safety and mentorship access in South Africa<br>
-        🪶 Outside of tech, I enjoy <b>graphic design</b>, <b>photography</b>, <b>music</b>, and <b>UI concept sketching</b>
+        🪶 Outside of tech, I enjoy <b>drumming</b>, <b>creative arts</b>, <b>music</b>, and <b>hiking</b>
       </td>
     </tr>
   </table>
