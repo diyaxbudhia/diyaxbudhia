@@ -17,12 +17,27 @@
 
 ---
 <div align="center">
-<img src="assets/1.png" alt="About Me" width="25%" style="border-radius: 12px;"/>
-<p>&nbsp;</p>
+  <img src="assets/1.png" alt="About Me" width="25%" style="border-radius: 12px;"/>
+  <p>&nbsp;</p>
 
-
-| <img src="assets/me.png" alt="Diya Budhia" width="240" style="border-radius:12px;" /> | I am a Computer Science student passionate about crafting meaningful, efficient, and visually appealing software. Focused on AI, Full-Stack Development, and UX-Driven Design. |
-|---|---|
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="assets/me.png" alt="Diya Budhia" width="240" style="border-radius:12px;"/>
+      </td>
+      <td align="left" style="vertical-align: top; padding-left: 20px; line-height: 1.6;">
+        🎓 Final-year <b>BSc Computer Science</b> student at the <b>University of Pretoria</b><br>
+        💡 Passionate about <b>AI</b>, <b>Full-Stack Development</b>, and <b>UX-Driven Design</b><br>
+        🧠 Skilled in multiple programming languages including <b>Python</b>, <b>Java</b>, and <b>C++</b><br>
+        🧩 Strong foundation in <b>data structures</b>, <b>algorithms</b>, and <b>object-oriented programming</b><br>
+        🧱 Enjoy solving real-world problems through efficient, creative, and well-designed software<br>
+        🪄 Currently exploring <b>machine learning</b>, <b>cloud computing</b>, and <b>systems integration</b><br>
+        💻 Advocate for clean, scalable code and user-centered digital experiences<br>
+        🌍 Co-founder of <b>Street Smartz</b>, a mobile app improving youth safety and mentorship access in South Africa<br>
+        🪶 Outside of tech, I enjoy <b>graphic design</b>, <b>photography</b>, <b>music</b>, and <b>UI concept sketching</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
