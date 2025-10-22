@@ -32,7 +32,7 @@
         🧩 Strong foundation in <b>data structures</b>, <b>algorithms</b>, and <b>object-oriented programming</b><br>
         🧱 Enjoy solving real-world problems through efficient, creative, and well-designed software<br>
         💻 Advocate for clean, scalable code and user-centered digital experiences<br>
-        🌍 Co-founder of <b>Street Smartz</b>, a mobile app improving youth safety and mentorship access in South Africa<br>
+        🌍 Co-founder of <b>Street Smartz</b>, an ongoing, mobile app improving youth safety and mentorship access in South Africa<br>
         🪶 Outside of tech, I enjoy <b>drumming</b>, <b>creative arts</b>, <b>music</b>, and <b>hiking</b>
       </td>
     </tr>
