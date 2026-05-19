@@ -121,21 +121,6 @@
     
 </p>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=diyaxbudhia&theme=neon&show_icons=true&hide_border=false&title_color=38B2AC&icon_color=7C3AED&text_color=E2E8F0&bg_color=0D1117" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=diyaxbudhia&theme=neon&hide_border=false" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaxbudhia&theme=neon&hide_border=false&layout=compact&title_color=7C3AED&text_color=E2E8F0&bg_color=0D1117" />
-</p>
 </div>
 
 ---
