@@ -9,8 +9,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Integration+Engineer;UI/UX+Engineer" alt="Typing SVG">
 
   <p style="font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif; color: #CBD5E1; max-width: 760px; margin-top: 10px;">
-    Aspiring Software Engineer | Bsc(Hons) Computer Science Student | BSc Computer Science Graduate from the University of Pretoria<br>
-    Focused on AI, Full-Stack Development, and UX-Driven Design.
+    Junior Software Engineer | Bsc(Hons) Computer Science Student | BSc Computer Science Graduate from the University of Pretoria<br>
+    Focused on AI, ML, Full-Stack Development, and UX-Driven Design.
   </p>
 
 </div>
@@ -26,7 +26,7 @@
         <img src="assets/me.png" alt="Diya Budhia" width="240" style="border-radius:12px;"/>
       </td>
       <td align="left" style="vertical-align: top; padding-left: 20px; line-height: 1.6;">
-        🎓 Final-year <b>BSc Computer Science</b> student at the <b>University of Pretoria</b><br>
+        🎓 <b>BSc(Hons) Computer Science</b> student at the <b>University of Pretoria</b> | BSc Computer Science Graduate <br>
         💡 Passionate about <b>AI</b>, <b>Full-Stack Development</b>, and <b>UX-Driven Design</b><br>
         🧠 Skilled in multiple programming languages including <b>Python</b>, <b>Java</b>, and <b>C++</b><br>
         🧩 Strong foundation in <b>data structures</b>, <b>algorithms</b>, and <b>object-oriented programming</b><br>
