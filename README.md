@@ -154,7 +154,8 @@
 <p>&nbsp;</p>
 <div align="left">
 
-- **Street Smartz (2025–present)**: Co-Founder & Developer  
+- **BMW IT Hub (2026-2027)**: Graduate Developer
+- **Street Smartz (2025–2026)**: Co-Founder & Developer  
   A mobile app designed to empower South African youth with local safety alerts and mentorship opportunities.  
 - **Academic Mentor (University of Pretoria, 2024)**: Assisted 30+ students in mastering computational logic and coding best practices.  
 - **Vodacom Code for a Girl Bootcamp**: Built responsive web pages using HTML and CSS, promoting women in tech.
